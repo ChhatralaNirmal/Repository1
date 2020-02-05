@@ -1,3 +1,0 @@
-Hello, This is inside test1.txt
-This is first changes after Git installation.
-This is third changes in this file. 
