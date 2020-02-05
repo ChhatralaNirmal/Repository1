@@ -1,2 +1,3 @@
 Hello Nirmal, 
 This file is created from Branch1
+This file is updated from Branch2
