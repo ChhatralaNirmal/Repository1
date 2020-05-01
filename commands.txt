@@ -1,0 +1,22 @@
+dmpmqmsg -m INTMQP -i INTMQP.DEADQ  -f C:\myfile  -- COpy messages to file
+
+dmpmqmsg -m INTMQP -o INTMQP.DEADQ  -f C:\myfile -- load messages to queue
+
+
+dmpmqmsf -m INTMQP -I INTMQP.DEADQ -o ORDERSTATUS.F.OR.T.EFOLLETT
+
+
+dmpmqcfg -m FHEG.OR.DEV -a > /home/mqm/Dev_FHEG_OR/FHEG.OR.DEV.09132019.mqsc
+
+
+dspmqrte -m A1 -q QREMOTE -re TR.REPLY.Q -vall
+
+
+Upload to BitBucket :
+
+curl -u example:pass -X POST https://api.bitbucket.org/2.0/repositories/example/example.bitbucket.io/src -F example.jpg=@example.jpg
+
+Reference to BitBucket : https://en.wikiversity.org/wiki/Bitbucket/Uploading_Files
+
+
+curl -u nirmalchhatrala:Abcd12345$ -X POST https://api.bitbucket.org/2.0/repositories/nirmalchhatrala/NirmalDocs/src -F Hi123.txt=@Hi123.txt --insecure
