@@ -1,0 +1,37 @@
+git config --global user.email "nirmal.chhatrala@gmail.com"
+git config --global user.name "ChhatralaNirmal"
+
+
+git commands -- 
+
+git init >>> this will download git repositories on local machine. 
+
+git status >>> this will give you Git status. 
+
+touch test1.txt >>> this will create test1.txt file on local machine. 
+
+git add test1.txt >>> this will add test1.txt file to .git folder on local machine.
+
+git commit -m "test message to place in github" >>> this will commit changes and upload the changes on github with custom message. 
+
+git add . >>> this will comit all changes.. 
+
+git remote add origin https://github.com/Automation1 >>> this will link git with github account. 
+
+git push -u origin master >>> this will push all your changes to master branch on github account. 
+
+git --help >>> this will show all commands. help
+
+
+git branch "branch-name" >>> this will create branch 
+
+git checkout "branch-name" >>> this will checkout our branch
+
+git checkout master >>> this will checkout master
+
+git push -u origin "branch-name" >>> this will push all your changes to branch created in previous step. 
+
+
+git branch -d "branch-name" >>> this will delete branch-name
+
+git push origin --delete "branch-name" >>> this will delete branch from remote(GitHub)

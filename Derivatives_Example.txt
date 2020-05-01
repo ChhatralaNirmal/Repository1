@@ -1,0 +1,70 @@
+--------------------------------------------
+                Put Option/Sell
+--------------------------------------------
+
+Reliance - Current MKP - 1332.90
+
+Put Option - Strike Price 1600
+
+Expire 27JUN2019/1000 shares. 
+
+Premium : 261.50*1000 = 2,61,500
+
+
+Tomorrow : Reliance Price : 1300
+
+1600-1300=300*1000 = 3,00,000 
+
+Net Profit = 3,00,000-2,61,500=38,500
+
+
+
+Reliance - Current MKP - 1332.90
+
+Put Option - Strike Price 1600
+
+Expire 27JUN2019/1000 shares. 
+
+Premium : 261.50*1000 = 2,61,500
+
+
+Tomorrow : Reliance Price : 1400
+
+1600-1400=200*1000 = 2,00,000 
+
+Net Profit = 2,00,000-2,61,500=61,500
+
+--------------------------------------------
+               Call Option/Buy
+--------------------------------------------
+
+Reliance - Current MKP - 1332.90
+
+Call Option - Strike Price 1000
+
+Expire 27JUN2019/1000 shares. 
+
+Premium : 337*1000 = 3,37,000
+
+
+Tomorrow : Reliance Price : 1350
+
+1350-1000=350*1000 = 3,50,000 
+
+Net Profit = 3,50,000-3,37,000=13,000
+
+
+Reliance - Current MKP - 1332.90
+
+Call Option - Strike Price 1000
+
+Expire 27JUN2019/1000 shares. 
+
+Premium : 337*1000 = 3,37,000
+
+
+Tomorrow : Reliance Price : 1300
+
+1300-1000=300*1000 = 3,00,000 
+
+Net Loss = 3,00,000-3,37,000=37,000
