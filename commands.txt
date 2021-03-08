@@ -20,3 +20,5 @@ Reference to BitBucket : https://en.wikiversity.org/wiki/Bitbucket/Uploading_Fil
 
 
 curl -u nirmalchhatrala:Abcd12345$ -X POST https://api.bitbucket.org/2.0/repositories/nirmalchhatrala/NirmalDocs/src -F Hi123.txt=@Hi123.txt --insecure
+
+-- Added this line for git commit test
